@@ -1,0 +1,39 @@
+Hãy dịch full lại toàn bộ chương này mạch lạc và dễ đọc như một tiểu thuyết tiên hiệp.
+
+Chỗ nào văn phong không tự nhiên, diễn đạt lại bằng tiếng Việt tự nhiên, từ ngữ gọn, không lê thê. 
+Giữ nguyên toàn bộ nội dung, tình tiết, tên nhân vật, thuật ngữ, cảnh giới và xưng hô; không cắt, không thêm, không tóm tắt.
+
+một số từ rõ nghĩa khả năng không cần sửa: "Đạo thứ nhất", "lôi trụ", "thẳng tắp", "đỉnh đầu", "không đáng kể", "xiêu vẹo", "mảnh diệp tử", "tửu lâu", "ý tứ", "thứ nhất", "chảy ra", "áp bách", "cực kỳ", "chặt chẽ" , "tên tuổi"
+
+ví dụ: "Nghe thể diện" => "Nghe thì thể diện"
++ hoặc "Đừng lãng phí." đủ ý nghĩa 
+=> "Đừng lãng phí."
++ hoặc "Lạc Kỳ đi theo phía sau ra cửa sân, trải qua Trần An Thuận bên người lúc bước chân dừng một chút, đè thấp cuống họng." 
+=> "Lạc Kỳ đi theo ra cửa sân phía sau, ngang qua người Trần An Thuận bước chân dừng một chút, hạ thấp giọng."
+hoặc "ta là tiên môn Ngự Thú Phong Thập Tam trưởng lão, Tang Vũ." 
+=> "ta là tiên môn Ngự Thú Phong Thập Tam trưởng lão, Tang Vũ."
++ hoặc "Trần An Thuận ở trong đầu lật ra những gì Lạc Kỳ trước đó đã nói, trưởng lão tất cả đỉnh núi trong tiên môn, thấp nhất là cảnh giới Trúc Cơ, thọ nguyên từ hai trăm năm trở lên."
+=> "Trần An Thuận trong đầu nghĩ lại những gì Lạc Kỳ trước đó đã nói, tất cả trưởng lão đỉnh cấp trong tiên môn, thấp nhất là cảnh giới Trúc Cơ, thọ nguyên từ hai trăm năm trở lên."
++ hoặc: "Tiểu hữu ngươi tốt" - không rõ nghĩa tiếng việt 
+=> "Tiểu hữu khỏe chứ"
++ hoặc "Tang Vũ bước qua cánh cửa" vẫn rõ nghĩa. 
++ hoặc "Lạc Kỳ theo ở phía sau tiến viện tử, tiện tay đem cửa sân mang lên."
+=> "Lạc Kỳ theo ở phía sau tiến vào viện tử, tiện tay khép cửa sân lại."
++ hoặc "Quân nhu chỗ đại trướng, lúc này tiếng người huyên náo."
+=> "chỗ Đại trướng quân nhu, lúc này tiếng người huyên náo"
++ hoặc "Thứ bốn mươi bảy đao vỗ xuống nháy mắt, bàn đá xanh vỡ ra nhất đạo văn.."
+=> "Khoảnh khắc đao thứ bốn mươi bảy chém xuống, nền đá xanh nứt ra một đạo văn..."
+
++ hoặc "Triệu Tứ đứng tại quán trà bên cạnh, trong tay nắm chặt kia bản sách mỏng tử, phong bì thượng xiêu xiêu vẹo vẹo ba chữ tại cuối cùng một sợi sắc trời bên trong chớp tắt.."
+=> "Triệu Tứ đứng tại quán trà bên cạnh, trong tay nắm chặt cuốn sổ mỏng, ba chữ "phong bì thượng" xiêu xiêu vẹo vẹo trên bìa sách chớp tắt trong tia sắc trời cuối cùng..."
+
++ hoặc "Có chút ý tứ." vẫn đúng không cần sửa
++ hoặc "Tầng hai góc rẽ tửu lâu." => "Góc rẽ tầng hai tửu lâu."
++ hoặc "Trong ngõ nhỏ truyền đến Phương Cầu tiếng cười, dần dần từng bước đi đến" 
+=> "Trong ngõ nhỏ truyền đến tiếng cười của Phương Cầu, dần dần từng bước đi đến..."
++ hoặc "Linh đang lung lay hai cái, cái cổ xiêu vẹo cây táo thượng lạc hai mảnh diệp tử.."
+=> "Chiếc chuông lắc lư hai nhịp, từ trên cây táo nghiêng cành rơi xuống hai mảnh diệp tử..."
+hoặc "Tương lai mấy tháng, đột phi mãnh tiến, không đáng kể!." 
+=> "Mấy tháng tới đây, tu vi đột phi mãnh tiến, là không đáng kể!"
+
+Chỉ xuất ra bản truyện hoàn chỉnh, cả tiêu đề, không giải thích quá trình dịch.
